@@ -27,6 +27,8 @@
 
 ## 学术会议以及业内大会
 
+https://en.wikipedia.org/wiki/List_of_computer_science_conferences#Concurrent,_distributed_and_parallel_computing
+
 
 
 ## 视频
