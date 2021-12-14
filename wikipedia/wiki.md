@@ -13,6 +13,7 @@
 ## 知名人物
 * [Leslie Lamport](https://en.wikipedia.org/wiki/Leslie_Lamport)
 * [Eric Brewer](https://en.wikipedia.org/wiki/Eric_Brewer_(scientist))
+* [Jeff Dean](https://en.wikipedia.org/wiki/Jeff_Dean)
 
 
 
