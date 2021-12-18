@@ -16,6 +16,18 @@
 * [Jeff Dean](https://en.wikipedia.org/wiki/Jeff_Dean)
 
 
+## Github
+
+https://github.com/theanalyst/awesome-distributed-systems
+
+https://dancres.github.io/Pages/
+
+MIT: Distributed Systems Reading Group: http://dsrg.pdos.csail.mit.edu/
+
+https://github.com/dgryski/awesome-consensus
+
+
+
 
 ## 博客
 * [银河里的星星](http://duanple.com/?p=170) 分布式论文翻译
@@ -34,6 +46,7 @@ https://en.wikipedia.org/wiki/List_of_computer_science_conferences#Concurrent,_d
 
 ## 视频
 
+DistSys Reading Group:https://www.youtube.com/channel/UCMKIroHVXvMQRIBhENE6RhQ/videos
 
 
 
