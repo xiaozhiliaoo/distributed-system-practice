@@ -1,4 +1,11 @@
-# distributed system
-分布式系统研究～偏向于论文,课程,教材。
+# Distributed System
+分布式系统研究～偏向于课程,论文,教材。包括分布式系统，[分布式计算](https://en.wikipedia.org/wiki/Distributed_computing)，[分布式算法](https://en.wikipedia.org/wiki/Distributed_algorithm)等主题。
 
+# Course
+[Course](/course)
+
+# Paper
+[Paper](/paper)
+
+# Other
 其它repository：[数据库以及分布式数据库](https://github.com/xiaozhiliaoo/database-system-practice)

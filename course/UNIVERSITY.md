@@ -21,7 +21,7 @@ UW、 华盛顿大学
 
 Georgia Tech、 佐治亚理工学院
 
-UT Austin 德州大学奥斯汀分校
+UT Austin(Utexas) 德州大学奥斯汀分校
 
 Upenn  宾夕法尼亚大学
 
