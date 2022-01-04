@@ -1,3 +1,5 @@
+# 分布式系统书籍整理
+
 ## 国内的书
 
 分布式系统设计实践 李庆旭
@@ -20,12 +22,32 @@ ZooKeeper分布式过程协同详解
 
 高伸缩性系统：Erlang/OTP大型分布式容错设计
 
-
-
+分布式计算：原理、算法与系统
 
 ## 国外的书
 
-分布式系统原理与泛型
+分布式系统原理与泛型第二版
 
-分布式系统概念与设计
+分布式系统原理与泛型第三版
 
+分布式系统概念与设计第五版
+
+Distributed Computing: Principles, Algorithms, and Systems, 
+
+Distributed Systems design and algorithms
+
+Distributed Algorithms An Intuitive Approach
+
+Distributed Algorithms for Message-Passing Systems
+
+Distributed Systems An Algorithmic Approach
+
+Distributed Systems Architecture A Middleware Approach
+
+Guide to Reliable Distributed Systems
+
+Introduction to Distributed Algorithms
+
+Principles of Distributed Systems
+
+Understanding-Distributed-Systems
