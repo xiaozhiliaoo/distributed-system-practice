@@ -25,6 +25,8 @@ UT Austin(Utexas) 德州大学奥斯汀分校
 
 Upenn  宾夕法尼亚大学
 
+Columbia 哥伦比亚大学
+
 欧洲
 Oxford 牛津
 

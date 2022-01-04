@@ -17,4 +17,5 @@
 | Washington-CSE452                | Distributed Systems                                |          |
 | Washington-CSEP552               | Distributed Systems                                |          |
 | Berkeley-CS294-91                | Distributed Computing                              |          |
+| CMU-18-749                       | Distributed Systems                                |          |
 
