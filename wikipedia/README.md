@@ -1,8 +1,7 @@
-#分布式的site收集
+#分布式系统
 
 ## wiki
 
-*wiki资料*
 * [Distributed Hash Table](https://en.wikipedia.org/wiki/Distributed_hash_table) 分布式Hash表
 * [Distributed Algorithm](https://en.wikipedia.org/wiki/Distributed_algorithm) 分布式算法
 * [Consistency Model](https://en.wikipedia.org/wiki/Consistency_model) 一致性模型
@@ -27,6 +26,9 @@ MIT: Distributed Systems Reading Group: http://dsrg.pdos.csail.mit.edu/
 https://github.com/dgryski/awesome-consensus
 
 
+## 好的链接
+
+[Distributed systems theory for the distributed systems engineer](https://www.the-paper-trail.org/post/2014-08-09-distributed-systems-theory-for-the-distributed-systems-engineer/)
 
 
 ## 博客

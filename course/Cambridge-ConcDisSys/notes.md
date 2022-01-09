@@ -2,7 +2,9 @@
 
 
 剑桥大学分布式系统课程，
-主讲DDIA作者
+主讲DDIA作者，博客：https://martin.kleppmann.com/
+
+所有博客：https://martin.kleppmann.com/archive.html
 
 https://www.cl.cam.ac.uk/teaching/2122/ConcDisSys/
 
