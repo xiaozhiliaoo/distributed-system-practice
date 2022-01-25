@@ -1,7 +1,7 @@
 | 课程                             | 课程名称                                           | 学习顺序 |
 | -------------------------------- | -------------------------------------------------- | -------- |
-| Cambridge-ConcDisSys             | Concurrent and Distributed Systems                 | 1        |
-| CMU-15-440-640                   | Distributed Systems                                | 2        |
+| [Cambridge-ConcDisSys](./Cambridge-ConcDisSys/dist-sys-slides.pdf)             | Concurrent and Distributed Systems                 | 1        |
+| [CMU-15-440-640](./CMU-15-440-640)                   | Distributed Systems                                | 2        |
 | CMU-15-712                       | Advanced Operating Systems and Distributed Systems | 5        |
 | CMU-15619-CC                     | Cloud Computing                                    | 6        |
 | CMU-15719-ACC                    | Advanced Cloud Computing                           | 7        |
