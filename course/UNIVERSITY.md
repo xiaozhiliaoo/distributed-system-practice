@@ -27,6 +27,8 @@ Upenn  宾夕法尼亚大学
 
 Columbia 哥伦比亚大学
 
+Wisconsin 威斯康星
+
 欧洲
 Oxford 牛津
 
