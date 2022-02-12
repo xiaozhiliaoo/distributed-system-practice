@@ -7,8 +7,6 @@
 | [Cambridge-ConcDisSys](./Cambridge-ConcDisSys/README.md)     | Concurrent and Distributed Systems                 | 1        |
 | [CMU-15-440-640](./CMU-15-440-640/README.md)                 | Distributed Systems                                | 2        |
 | [CMU-15-712](./CMU-15-712/README.md)                         | Advanced Operating Systems and Distributed Systems | 5        |
-| [CMU-15619-CC](./CMU-15619-CC/README.md)                     | Cloud Computing                                    | 6        |
-| [CMU-15719-ACC](./CMU-15719-ACC/README.md)                   | Advanced Cloud Computing                           | 7        |
 | [Cornell-cs5450](./Cornell-cs5450/README.md)                 | Networked and Distributed Systems                  |          |
 | [MIT6.824](./MIT6.824/README.md)                             | Distributed Systems                                | 4        |
 | [MIT6.852](./MIT6.852/README.md)                             | Distributed Algorithms                             |          |
