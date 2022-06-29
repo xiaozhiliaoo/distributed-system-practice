@@ -15,7 +15,7 @@
 * [Jeff Dean](https://en.wikipedia.org/wiki/Jeff_Dean)
 
 
-## Github
+## Github Awesome
 
 https://github.com/theanalyst/awesome-distributed-systems
 

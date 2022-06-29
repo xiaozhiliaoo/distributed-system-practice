@@ -1,1 +1,0 @@
-http://www.cdk5.net/wp/

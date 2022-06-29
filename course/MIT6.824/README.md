@@ -11,3 +11,9 @@ git clone git://g.csail.mit.edu/6.824-golabs-2021 6.824
 
 
 https://github.com/nsiregar/mit-go
+
+## Course
+
+### Lecture 1: Introduction
+
+### 
