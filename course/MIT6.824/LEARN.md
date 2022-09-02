@@ -1,10 +1,16 @@
 # 学习笔记
 
+https://www.youtube.com/channel/UC_7WrbZTCODu1o_kfUMq88g
+
+
 ## Lecture1:Introduction
 
 ## Lecture2:RPC and Thread
 
 ## Lecture3:GFS
+
+
+
 
 ## Lecture4:Primary-Backup Replication
 

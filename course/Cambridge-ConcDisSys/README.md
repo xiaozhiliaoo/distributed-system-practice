@@ -1,6 +1,6 @@
 # Concurrent and Distributed Systems 并发和分布式系统
 
-课程主页：[Concurrent and Distributed Systems (cam.ac.uk)](https://www.cl.cam.ac.uk/teaching/2122/ConcDisSys/)
+课程主页：[Concurrent and Distributed Systems (cam.ac.uk)](https://www  .cl.cam.ac.uk/teaching/2122/ConcDisSys/)
 
 課程Youtube：[Distributed Systems lecture series](https://www.youtube.com/playlist?list=PLeKd45zvjcDFUEv_ohr_HdUFe97RItdiB)
 
