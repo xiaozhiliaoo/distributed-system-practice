@@ -2,15 +2,11 @@
 
 https://www.youtube.com/channel/UC_7WrbZTCODu1o_kfUMq88g
 
-
-## Lecture1:Introduction
+## Lecture1:Introduction(DONE-2022-09-04)
 
 ## Lecture2:RPC and Thread
 
 ## Lecture3:GFS
-
-
-
 
 ## Lecture4:Primary-Backup Replication
 

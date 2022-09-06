@@ -12,3 +12,6 @@ https://www.youtube.com/playlist?list=PLeKd45zvjcDFUEv_ohr_HdUFe97RItdiB
 
 ## 2.2: The Byzantine generals problem
 
+## 2.3 System models
+
+
