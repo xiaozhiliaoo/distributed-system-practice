@@ -25,6 +25,8 @@ MIT: Distributed Systems Reading Group: http://dsrg.pdos.csail.mit.edu/
 
 https://github.com/dgryski/awesome-consensus
 
+https://github.com/heidihoward/distributed-consensus-reading-list
+
 
 ## 好的链接
 
